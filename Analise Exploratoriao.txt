@@ -1,0 +1,9 @@
+"""
+#Rotinas:
+#O que falta?
+#O que incomoda?
+#O que pode ser melhorado?
+#Qual é o gap?
+#Há um padrão que pode ser observado?
+#Há uma afirmação que pode ser contestada?
+"""
